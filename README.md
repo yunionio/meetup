@@ -1,7 +1,9 @@
 # Yunion OneCloud meetup
 
 这里收集每期 meetup 交流相关的资料:
-
+- 2021-04-28
+    - [近期新功能介绍](./2021-04-28/meetup17part1.pdf)
+    - [ARM架构适配介绍](./2021-04-28/meetup17part2.pdf)
 - 2021-03-31
     - [近期新功能介绍](./2021-03-31/Meetup16Part1.pdf)
     - [云联壹云Golang实践](./2021-03-31/Meetup16Part2.pdf)
