@@ -1,6 +1,9 @@
 # Yunion OneCloud meetup
 
 这里收集每期 meetup 交流相关的资料:
+- 2021-05-26
+    - [3.7版本新功能介绍](./2021-05-26/meetup18part1.pdf)
+    - [LB负载均衡的应用](./2021-05-26/meetup18part2.pdf)
 - 2021-04-28
     - [近期新功能介绍](./2021-04-28/meetup17part1.pdf)
     - [ARM架构适配介绍](./2021-04-28/meetup17part2.pdf)
