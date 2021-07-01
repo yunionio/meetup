@@ -1,6 +1,9 @@
 # Yunion OneCloud meetup
 
 这里收集每期 meetup 交流相关的资料:
+- 2021-06-30
+    - [3.8版本新功能介绍](./2021-06-30/meetup19part1.pdf)
+    - [多云虚拟机统一监控](./2021-06-30/meetup19part2.pdf)
 - 2021-05-26
     - [3.7版本新功能介绍](./2021-05-26/meetup18part1.pdf)
     - [LB负载均衡的应用](./2021-05-26/meetup18part2.pdf)
